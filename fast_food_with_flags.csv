@@ -1,0 +1,54 @@
+Name,Address,Rating,Website,Hours,Cuisine,Latitude,Longitude,Address_missing,Rating_missing,Website_missing,Hours_missing,Cuisine_missing,Latitude_missing,Longitude_missing
+Indianapolis 500 Grill,NA,NA,NA,NA,burger,39.715038,-86.2977915,1,1,1,1,0,0,0
+McDonald's,NA,NA,NA,NA,burger,39.7172141,-86.0076571,1,1,1,1,0,0,0
+Five Guys,NA,NA,NA,NA,burger,39.7642274,-86.3255477,1,1,1,1,0,0,0
+Panera Bread,NA,NA,NA,NA,sandwich;bakery,39.7632272,-86.325807,1,1,1,1,0,0,0
+Papa John's,North Shadeland Avenue,NA,NA,NA,pizza,39.7768392,-86.0447986,0,1,1,1,0,0,0
+Dunkin' Donuts,Kentucky Avenue,NA,NA,NA,donut,39.6607058,-86.3106271,0,1,1,1,0,0,0
+Qdoba,North Keystone Avenue,NA,https://www.qdoba.com/,NA,mexican,39.8888544,-86.1211398,0,1,0,1,0,0,0
+Subway,NA,NA,NA,NA,sandwich,39.7181385,-86.0079422,1,1,1,1,0,0,0
+Wendy's,NA,NA,NA,NA,burger,39.7133931,-86.0087576,1,1,1,1,0,0,0
+Church's Chicken,NA,NA,NA,NA,chicken,39.753947,-86.2477712,1,1,1,1,0,0,0
+Fazoli's,NA,NA,NA,NA,italian,39.7533304,-86.2498204,1,1,1,1,0,0,0
+Einstein Bros. Bagels,NA,NA,NA,NA,bagel,39.91212,-86.219956,1,1,1,1,0,0,0
+Chipotle,East 96th Street,NA,https://www.chipotle.com/,Mo-Su 11:00-22:00,mexican,39.9264261,-86.0903204,0,1,0,0,0,0,0
+China Wok,Allisonville Road,NA,NA,Mo-Th 11:00-21:30; Fr 11:00-22:00; Sa 17:00-22:00,chinese,39.9251604,-86.0687925,0,1,1,0,0,0,0
+Jersey Mike's Subs,E. 82nd Street,NA,https://www.jerseymikes.com,Mo-Sa 10:00-21:00; Su 11:00-19:00,sandwich,39.9042889,-86.0839581,0,1,0,0,0,0,0
+Little Caesars,NA,NA,NA,NA,pizza,39.7360429,-86.1393143,1,1,1,1,0,0,0
+Steak 'n Shake,NA,NA,NA,closed,burger,39.9264284,-86.0974444,1,1,1,0,0,0,0
+Jimmy John's,NA,NA,NA,NA,sandwich,39.8669617,-86.1202754,1,1,1,1,0,0,0
+Punch Burger,East Ohio Street,NA,http://punchburger.com/,NA,burger,39.7696984,-86.1547252,0,1,0,1,0,0,0
+Marco's Pizza,NA,NA,NA,NA,pizza,39.7803688,-86.1721318,1,1,1,1,0,0,0
+Panda Express,Oscar Robertson Boulevard,NA,NA,NA,chinese,39.78129,-86.170481,0,1,1,1,0,0,0
+Chicken Salad Chick,North Keystone Avenue,NA,NA,NA,chicken,39.867692,-86.121031,0,1,1,1,0,0,0
+Hardee's,NA,NA,NA,NA,burger,39.836123,-86.026573,1,1,1,1,0,0,0
+Potbelly's,NA,NA,NA,NA,sandwich,39.768272,-86.1572,1,1,1,1,0,0,0
+Which Wich?,NA,NA,NA,NA,sandwich,39.781077,-86.174289,1,1,1,1,0,0,0
+Papa Murphy's,East 71st Street,NA,NA,NA,pizza,39.8843227,-86.0676547,0,1,1,1,0,0,0
+The Pastry House,NA,NA,NA,NA,mexican,39.825151,-86.240586,1,1,1,1,0,0,0
+Taco Bell,NA,NA,NA,NA,tex-mex,39.7126109,-86.0086863,1,1,1,1,0,0,0
+White Castle,NA,NA,NA,NA,NA,39.692966,-86.1856889,1,1,1,1,1,0,0
+Domino's,East 21st Street,NA,NA,Mo-Su 10:00-24:00,pizza,39.7965959,-85.991164,0,1,1,0,0,0,0
+Popeyes,East Washington Street,NA,NA,NA,chicken,39.774481,-85.9885351,0,1,1,1,0,0,0
+KFC,East 21st Street,NA,NA,NA,chicken,39.7969868,-86.0127257,0,1,1,1,0,0,0
+Arby's,East 82nd Street,NA,NA,NA,sandwich,39.9049142,-86.0565371,0,1,1,1,0,0,0
+Penn Station,East 82nd Street,NA,NA,Mo-Su 10:30-21:00,sandwich,39.9043529,-86.0529113,0,1,1,0,0,0,0
+Jack in the Box,North Post Road,NA,NA,24/7,burger,39.7975655,-86.0101428,0,1,1,0,0,0,0
+Culver's,Country Village Drive,NA,https://www.culvers.com/restaurants/indianapolis-in-rockville-rd,10:00-22:00,burger,39.7635617,-86.3062246,0,1,0,0,0,0,0
+Dairy Queen,NA,NA,NA,NA,ice_cream;burger,39.7697951,-86.0588782,1,1,1,1,0,0,0
+Bub's Burgers,NA,NA,NA,NA,burger,39.7150931,-86.2952471,1,1,1,1,0,0,0
+Shake Shack,NA,NA,NA,NA,burger,39.7176261,-86.2969113,1,1,1,1,0,0,0
+CoreLife Eatery,East 82nd Street,NA,https://www.corelifeeatery.com/,Mo-Fr 11:00-21:00,sandwich;burger;american;health_food,39.9061335,-86.0936733,0,1,0,0,0,0,0
+Bento,NA,NA,NA,NA,japanese,39.7151379,-86.295185,1,1,1,1,0,0,0
+Nature's Table,NA,NA,NA,NA,health_food,39.7149011,-86.2974874,1,1,1,1,0,0,0
+Burger King,NA,NA,NA,NA,burger,39.6951235,-86.2678821,1,1,1,1,0,0,0
+Mod Pizxa,NA,NA,https://modpizza.com/,NA,NA,39.9108164,-86.1097526,1,1,0,1,1,0,0
+Jack's,NA,NA,NA,NA,burger,39.7679724,-86.103902,1,1,1,1,0,0,0
+Chick-fil-A,NA,NA,NA,NA,chicken,39.7149454,-86.2972882,1,1,1,1,0,0,0
+317 Juicery,NA,NA,NA,NA,juice,39.7487336,-86.1399993,1,1,1,1,0,0,0
+Freddy's,NA,NA,NA,NA,NA,39.8018537,-86.2708202,1,1,1,1,1,0,0
+MCL,NA,NA,NA,NA,NA,39.8004904,-86.265065,1,1,1,1,1,0,0
+Ben's Soft Pretzels,NA,NA,NA,NA,NA,39.7166066,-86.2983478,1,1,1,1,1,0,0
+Domino's Pizza,NA,NA,NA,NA,pizza,39.8823596,-86.0673398,1,1,1,1,0,0,0
+Papa Johns Pizza,East Southport Road,NA,NA,NA,pizza,39.6652021,-86.1288804,0,1,1,1,0,0,0
+Jack's donuts,NA,NA,NA,NA,NA,39.6656853,-86.046923,1,1,1,1,1,0,0

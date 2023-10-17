@@ -1,0 +1,9 @@
+time,location_name,address,cuisine,travel_distance,transportation_type,Latitude,Longitude
+NA,Day 1,NA,NA,NA,NA,NA,NA
+1100,Domino's,East 21st Street,pizza,9.09 miles,Car,39.7965959,-85.991164
+1400,Jersey Mike's Subs,E. 82nd Street,sandwich,8.92 miles,Car,39.9042889,-86.0839581
+2000,Penn Station,East 82nd Street,sandwich,1.65 miles,Car,39.9043529,-86.0529113
+NA,Day 2,NA,NA,NA,NA,NA,NA
+1100,Chipotle,East 96th Street,mexican,2.5 miles,Car,39.9264261,-86.0903204
+1400,Domino's,East 21st Street,pizza,10.39 miles,Car,39.7965959,-85.991164
+2000,Jersey Mike's Subs,E. 82nd Street,sandwich,8.92 miles,Car,39.9042889,-86.0839581
