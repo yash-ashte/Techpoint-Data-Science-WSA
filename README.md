@@ -1,6 +1,8 @@
 # Techpoint-Data-Science-WSA
 Work sample assessment for the Techpoint Xtern Data Science role
 
+# If you are unable to see the map, please run it in VSCode or on a online Jupyter Lab editor and press TRUST THE NOTEBOOK
+
 # Prerequisites:
 - overpy
 - csv
